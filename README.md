@@ -1,4 +1,4 @@
-# jokenpoBat<img align="center" margin="10" width="100" src="https://c.tenor.com/kqqD7nZfKy0AAAAM/quarantine-jokenpo.gif">
+# jokenpoBat<img align="center" height="150" width="180" src="https://c.tenor.com/kqqD7nZfKy0AAAAM/quarantine-jokenpo.gif">
 
 
 ## Como Jogar 👈
